@@ -29,11 +29,8 @@ The full set of files related to this course are owned by Udacity, so they are n
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps. 
 
 1. `BootcampStats.ipynb` is an analysis of bootcamp grads in terms of job placement and salary.
-
 2. `HowToBreakIntoTheField.ipynb`analyzes how to become a software developer.
-
 3. `Salary.ipynb` is an analysis of the variables that are related to salary and job satisfaction. 
-
 There is an additional `Salary_ML.py` file that builds a Linear Regression model to predict salary.
 
 ## Results<a name="results"></a>
